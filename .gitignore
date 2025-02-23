@@ -9,6 +9,9 @@ result
 .makemd
 custom_documentation
 
+# VS Code
+fabric-fork.code-workspace
+
 # macOS local stores
 .DS_Store
 
