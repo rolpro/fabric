@@ -31,7 +31,12 @@ Subject: Machine Learning
 Copy the input query to the clipboard and execute the following command:
 
 ```bash
-xclip -selection clipboard -o | fabric -sp analize_answers
+xclip -selection clipboard -o | fabric -sp analyze_answers
+```
+
+MacOs:
+```shell
+pbpaste -o | fabric -sp analyze_answers
 ```
 
 ## Meta

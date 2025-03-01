@@ -43,12 +43,7 @@
 <header class="fixed top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
   <div class="container flex h-16 items-center justify-between px-4">
     <div class="flex items-center gap-4">
-      <Avatar 
-        src="/fabric-logo.png" 
-        width="w-10" 
-        rounded="rounded-full" 
-        class="border-2 border-primary/20"
-      />
+      <!-- Logo entfernt -->
       <a href="/" class="flex items-center">
         <span class="text-lg font-semibold">fabric</span>
       </a>
